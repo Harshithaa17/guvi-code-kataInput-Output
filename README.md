@@ -1,2 +1,3 @@
-# guvi-code-kataInput-Output
-This repository contains links and resources related to Guvi's Code Kata challenges.
+# Guvi Code Kata
+
+You can find the Guvi Code Kata here: [Guvi Code Kata](https://www.guvi.in/code-kata/#Input/Output)
